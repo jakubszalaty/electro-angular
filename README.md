@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Based on: https://medium.com/@murshidhassen/angular-7-electron-web-desktop-love-2995349e8e61
 
+![](.README/screenshot.png)
+
 ## Development server
 
 Run `yarn start` for a dev server. Next in other terminal window run `yarn electron`. The app will automatically reload if you change any of the source files.
