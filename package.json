@@ -4,7 +4,7 @@
     "scripts": {
         "ng": "ng",
         "start": "ng serve --extra-webpack-config webpack.electron.js -o",
-        "build": "ng build --prod",
+        "build": "ng build --prod --extra-webpack-config webpack.electron.js",
         "test": "ng test",
         "lint": "ng lint",
         "e2e": "ng e2e",
