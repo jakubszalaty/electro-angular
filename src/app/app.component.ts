@@ -8,7 +8,7 @@ import * as fs from 'fs'
     styleUrls: ['./app.component.scss'],
 })
 export class AppComponent implements OnInit {
-    title = 'electro-angular7'
+    title = 'electro-angular'
 
     fileList: string[] = []
     constructor(private changeDetector: ChangeDetectorRef) {}
